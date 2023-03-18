@@ -1,16 +1,13 @@
 #include<stdio.h>
-int main(void)/**
-	       * main - Entry point
-	       *
-	       * Return: Always 0 (Success)
-	       */
-/**Entry point
+/**
+* main - Entry point
 *
 * Return: Always 0 (Success)
-*/  
+*/
+int main(void)
 {
 int i;
-for(i = 122 ; i > 96 ; i--)
+for (i = 122 ; i > 96 ; i--)
 {
 putchar(i);
 }
