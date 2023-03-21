@@ -4,7 +4,6 @@
 ** print_alphabet - prints 10 times the alphabet in lowercase
 ** unction that prints 10 times the alphabet in lowercase
 */
-
 void print_alphabet_x10(void)
 {
 int i;
