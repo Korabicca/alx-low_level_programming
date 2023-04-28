@@ -3,7 +3,7 @@
 #include <stddef.h>
 /**
  * print_list - prints elmts of linked list
- * *h: ptr to the list_t list to print
+ * @h: ptr to the list_t list to print
  *
  * Return: the number of nodes printed
  */
